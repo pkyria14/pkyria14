@@ -1,4 +1,4 @@
-### What doesn't kill you simply makes you stranger  :clown_face:
+### What doesn't kill you, simply makes you ... stranger  :clown_face:
 
 <!--
 **pkyria14/pkyria14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
